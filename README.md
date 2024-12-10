@@ -3,7 +3,7 @@
 
 ## **Project Objective**
 
-analyzing mobile device usage patterns to understand user behavior, data usage, and battery consumption trends. This analysis aimed to provide actionable insights into improving user experience, optimizing app performance, and identifying potential opportunities for targeted product enhancements
+Analyzing mobile device usage patterns to understand user behavior, data usage, and battery consumption trends. This analysis aimed to provide actionable insights into improving user experience, optimizing app performance, and identifying potential opportunities for targeted product enhancements
 ## **Dataset used**
 - <a href="https://github.com/Ryaz16/Mobile-Device-Usage-Analysis/blob/main/user_behavior_dataset.csv"> Mobile Device Usage  Data</a>
 
