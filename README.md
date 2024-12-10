@@ -5,7 +5,7 @@
 
 analyzing mobile device usage patterns to understand user behavior, data usage, and battery consumption trends. This analysis aimed to provide actionable insights into improving user experience, optimizing app performance, and identifying potential opportunities for targeted product enhancements
 ## **Dataset used**
-- <a href="https://github.com/Ryaz16/Mobile-Device-Usage-Analysis/blob/main/user_behavior_dataset.csv"> Online Store Data</a>
+- <a href="https://github.com/Ryaz16/Mobile-Device-Usage-Analysis/blob/main/user_behavior_dataset.csv"> Mobile Device Usage  Data</a>
 
 ## **Questions (KPIs)**
 
@@ -46,7 +46,7 @@ Positive correlation between screen-on time and app usage time.
 
 ## **Dashboard**
 
-![Alt text of the image](https://github.com/Ryaz16/Store-Annual-Report-/blob/main/Online%20Store%20Data%20Analysis%20Dashboard.png)
+![Alt text of the image](mds.png)
 
 
 
